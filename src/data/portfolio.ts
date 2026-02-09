@@ -232,7 +232,7 @@ export const projects: Project[] = [
     ],
     liveUrl: "https://www.skillmatch.tech",
     category: "ai",
-    featured: true,
+    featured: false,
   },
   // {
   //   id: "netflix-clone",
