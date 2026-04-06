@@ -100,7 +100,7 @@ export const experiences: Experience[] = [
     role: "Software Engineer",
     company: "Texagon",
     companyUrl: "https://netixsol.com",
-    period: { start: "Sep 2025", end: "Present" },
+    period: { start: "Sep 2025", end: "Apr 2026" },
     type: "full-time",
     description: "Working on AI powered solutions for the businesses",
     achievements: [
@@ -350,7 +350,7 @@ export const consultancy: Consultancy = {
 };
 
 export const stats = {
-  yearsExperience: "2+",
+  yearsExperience: "2.5+",
   projectsDelivered: "8+",
   githubRepos: "22+",
   technologiesUsed: "15+",
